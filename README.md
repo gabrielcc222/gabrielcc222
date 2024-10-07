@@ -1,5 +1,3 @@
-# Olá meu nome e Gabriel
-
 ## Sobre mim
 Olá Meu nome e Gabriel, tenho 17 anos e sou um desenvolvedor FullStack
 
@@ -28,3 +26,8 @@ Olá Meu nome e Gabriel, tenho 17 anos e sou um desenvolvedor FullStack
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
+
+## Quer me chamar para trabalhar em algum projeto com você?
+
+[![Me Chame para um Projeto](https://img.shields.io/badge/-%F0%9F%93%A7%20Me%20Chame%20para%20um%20Projeto-blue?style=for-the-badge)](mailto:macielsilva1983@gmail.com)
