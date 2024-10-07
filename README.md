@@ -30,4 +30,4 @@ Olá Meu nome e Gabriel, tenho 17 anos e sou um desenvolvedor FullStack
 
 ## Quer me chamar para trabalhar em algum projeto com você?
 
-[![Me Chame para um Projeto](https://img.shields.io/badge/-%F0%9F%93%A7%20Me%20Chame%20para%20um%20Projeto-blue?style=for-the-badge)](mailto:macielsilva1983@gmail.com)
+[![Me envie um email](https://img.shields.io/badge/-%F0%9F%93%A7%20Me%20Chame%20para%20um%20Projeto-blue?style=for-the-badge)](mailto:macielsilva1983@gmail.com)
