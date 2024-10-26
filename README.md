@@ -1,5 +1,4 @@
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-<h1 align="center">👋 Olá, eu sou Gabriel!</h1>
+<h1 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Olá, eu sou Gabriel!</h1>
 <p align="center">
   <b>Desenvolvedor FullStack | 17 anos</b>
 </p>
