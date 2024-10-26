@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Habilidades
+## Habilidades
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -44,14 +44,3 @@
     <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Me%20Chame%20para%20um%20Projeto-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="50">
-</p>
-
----
-
-<style>
-  /* Adicione estilo personalizado */
-  body { background-color: #1a1a1a; color: #fff; font-family: Arial, sans-serif; }
-</style>
