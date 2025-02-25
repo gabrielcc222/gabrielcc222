@@ -40,6 +40,5 @@
 
 <div align="center">
   <a href="mailto:macielsilva1983@gmail.com">
-    <img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Me%20Chame%20para%20um%20Projeto-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
