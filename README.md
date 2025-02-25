@@ -1,15 +1,15 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">  Olá meu nome é Gabriel</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">  oii meu nome é Gabriel</h1>
 <p align="center">
-  <b>Desenvolvedor FullStack | 17 anos</b>
+  <b>desenvolvedor fullstack | 17 anos</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-FullStack-6A5ACD?style=flat-square&logo=hackerrank&logoColor=white"/>
+  <img src=""/>
 </p>
 
 ---
 
-## Habilidades
+## hablidades
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">📬 Quer me chamar para trabalhar em algum projeto com você?</h2>
+<h2 align="center">quer me chamar para trabalhar em algum projeto com você?</h2>
 
 <div align="center">
   <a href="mailto:macielsilva1983@gmail.com">
