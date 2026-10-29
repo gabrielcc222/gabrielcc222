@@ -59,8 +59,5 @@ Transformo café e episódios em código.
 
 ### Contato
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=discord&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0a0a0a&height=100&section=footer" width="100%" />
